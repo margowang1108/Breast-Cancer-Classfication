@@ -1,4 +1,4 @@
-# breast_cancer_classfication
+# Breast_Cancer_Classfication
 Machine Learning Project 
 
 ## Data Description
