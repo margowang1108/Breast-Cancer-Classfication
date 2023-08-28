@@ -1,5 +1,5 @@
 # Breast_Cancer_Classfication
-Machine Learning Project 
+Machine Learning Project for Data Science Course
 
 ## Data Description
 Source linke: https://ieee-dataport.org/open-access/seer-breast-cancer-data
